@@ -1,4 +1,4 @@
-# Interactive Medical Education LLM Chatbot
+# Medical-Education-LLM-RAG-Chatbot
 
 Welcome to the Interactive Medical Education LLM (Lifelong Learning Model) Chatbot project. This project aims to enhance medical education by providing an interactive learning experience through a novel approach called Retrieval Augmented Generation (RAG). The chatbot allows medical students to quiz themselves using flashcards based on textbook information to the Llama 2 model, providing a unique and effective learning experience.
 
